@@ -260,7 +260,7 @@ to 5. What we need to do is console.log(i) so that it logs like so:
  a closure to preserve a reference to i at the time of execution.
 
  Fix the code below to log the desired output.
- */
+ */                                 
 
 function timeOutCounter() {
   for (var i = 0; i <= 5; i++) {
